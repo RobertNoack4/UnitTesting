@@ -73,6 +73,9 @@
     <Compile Include="Fundamentals\HtmlFormatterTests.cs" />
     <Compile Include="Fundamentals\MathTests.cs" />
     <Compile Include="Fundamentals\ReservationTests.cs" />
+    <Compile Include="Mocking\BookingHelper_OverlappingBookingsExistsTests.cs" />
+    <Compile Include="Mocking\EmployeeControllerTests.cs" />
+    <Compile Include="Mocking\InstallerHelperTests.cs" />
     <Compile Include="Mocking\OrderServiceTests.cs" />
     <Compile Include="Mocking\ProductTests.cs" />
     <Compile Include="Mocking\VideoServiceTests.cs" />
